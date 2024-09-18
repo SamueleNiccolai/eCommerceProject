@@ -12,4 +12,7 @@
     <name>eCommerceProject</name>
     <description>Root project</description>
 
+    <modules>
+        <module>eCommerceCommon</module>
+    </modules>
 </project>
