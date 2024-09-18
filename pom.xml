@@ -14,5 +14,6 @@
 
     <modules>
         <module>eCommerceCommon</module>
+        <module>eCommerceWebParent</module>
     </modules>
 </project>
