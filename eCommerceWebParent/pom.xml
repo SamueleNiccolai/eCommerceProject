@@ -11,8 +11,10 @@
     <groupId>com.project.sani</groupId>
     <artifactId>eCommerceWebParent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    
     <name>eCommerceWebParent</name>
-    <description>eCommerceWebParent</description>
+    <description>parent spring web project</description>
     <url/>
     <licenses>
         <license/>
@@ -41,4 +43,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-</project>
+ </project>
